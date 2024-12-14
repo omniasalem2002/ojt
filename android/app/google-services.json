@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889022889783",
+    "project_id": "atw-ltd-task",
+    "storage_bucket": "atw-ltd-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889022889783:android:040041fd0bc424c1c464b2",
+        "android_client_info": {
+          "package_name": "com.example.atw_ltd_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD04bU_LnpziW3R9aMJxJ5l6khnQIv3ZUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
